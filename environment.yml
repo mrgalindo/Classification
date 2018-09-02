@@ -345,5 +345,3 @@ dependencies:
     - tweepy==3.6.0
     - validate-email==1.3
     - wikipedia==1.4.0
-prefix: /Users/manuelricardogalindo/anaconda3
-
