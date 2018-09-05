@@ -4,7 +4,6 @@ channels:
   - cimcb
   - defaults
 dependencies:
-  - fancyimpute
   - colorlover=0.2.1
   - ipywidgets=7.4.0
   - numpy=1.15.1
@@ -17,3 +16,4 @@ dependencies:
   - pip:
     - scikit-learn==0.20rc1
     - impyute
+    - fancyimpute
