@@ -2,7 +2,6 @@ name: minimal
 channels:
   - conda-forge
   - defaults
-  - conda-forge/label/rc
 dependencies:
   - colorlover=0.2.1
   - ipywidgets=7.4.0
