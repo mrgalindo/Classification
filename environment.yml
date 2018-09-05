@@ -1,7 +1,6 @@
 name: minimal
 channels:
   - conda-forge
-  - cimcb
   - defaults
 dependencies:
   - colorlover=0.2.1
