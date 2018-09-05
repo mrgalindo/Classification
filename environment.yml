@@ -4,6 +4,7 @@ channels:
 
 - conda-forge
 - defaults
+- conda-forge/label/rc
 
 dependencies:
 
