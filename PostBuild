@@ -1,3 +1,5 @@
+conda install -c conda-forge/label/rc scikit-learn
+
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.36 --no-build
 jupyter labextension install plotlywidget@0.2.1  --no-build
 jupyter labextension install @jupyterlab/plotly-extension@0.16  --no-build
