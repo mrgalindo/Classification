@@ -16,3 +16,4 @@ dependencies:
     - scikit-learn==0.20rc1
     - fancyimpute
     - impyute
+    - prince
