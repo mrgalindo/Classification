@@ -19,3 +19,4 @@ dependencies:
     - impyute
     - prince
     - findiff
+    - factor_analyzer
